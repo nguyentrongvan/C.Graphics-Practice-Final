@@ -5,8 +5,11 @@ Thực hành - SharpGL 3D
 --
 Code sơ bộ thực hiện được các yêu cầu:
 1) Vẽ đối tượng:
+
 a) Lập phương.
+
 b) Lăng trụ tam giác đều.
+
 c) Khối chóp tứ giác đều.
 
 2/Vẽ khung cảnh:
