@@ -3,54 +3,55 @@
 
 Thực hành - SharpGL 3D
 --
-Code sơ bộ thực hiện được các yêu cầu:
+## Code sơ bộ thực hiện được các yêu cầu:
+
 1/ Vẽ đối tượng:
 
-_Lập phương.
+- Lập phương.
 
-_Lăng trụ tam giác đều.
+- Lăng trụ tam giác đều.
 
-_Khối chóp tứ giác đều.
+- Khối chóp tứ giác đều.
 
 
 2/Vẽ khung cảnh:
 
-_Hệ toạ độ 3 chiều.
+- Hệ toạ độ 3 chiều.
 
-_Vẽ mặt phẳng đáy.
+- Vẽ mặt phẳng đáy.
 
 --
-Các yêu cầu còn lại:
+## Các yêu cầu còn lại:
 
 1/Thao tác chọn trên đối tượng:
 
-_Chọn đối tượng.
+- Chọn đối tượng.
 
-_Vẽ viền đối tượng được chọn.
+- Vẽ viền đối tượng được chọn.
 
-_Đổi màu đối tượng được chọn.
+- Đổi màu đối tượng được chọn.
 
 
 2/Affine Transform:
 
-_Scale.
+- Scale.
 
-_Tịnh tiến.
+- Tịnh tiến.
 
-_Xoay.
+- Xoay.
 
 
 3/Lớp đối tượng Camera:
 
-_Lại gần ra xa.
+- Lại gần ra xa.
 
-_Xoay trái phải.
+- Xoay trái phải.
 
-_Di chuyển lên xuống.
+- Di chuyển lên xuống.
 
 
 4/Dán Texture3D: Load ảnh và dán Texture lên các đối tượng:
 
-_Lập phương.
+- Lập phương.
 
-_Khối chóp tam giác đều.
+- Khối chóp tam giác đều.
