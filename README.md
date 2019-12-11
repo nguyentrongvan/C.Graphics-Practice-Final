@@ -20,6 +20,12 @@ Thực hành - SharpGL 3D
 
 - Vẽ mặt phẳng đáy.
 
+3/Gán Texture cơ bản:
+
+-Khối lập phương.
+
+_Khối chóp tứ giác đều.
+
 --
 ## Các yêu cầu còn lại:
 
@@ -48,10 +54,3 @@ Thực hành - SharpGL 3D
 - Xoay trái phải.
 
 - Di chuyển lên xuống.
-
-
-4/Dán Texture3D: Load ảnh và dán Texture lên các đối tượng:
-
-- Lập phương.
-
-- Khối chóp tam giác đều.
