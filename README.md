@@ -22,9 +22,9 @@ Thực hành - SharpGL 3D
 
 3/Gán Texture cơ bản:
 
--Khối lập phương.
+- Khối lập phương.
 
-_Khối chóp tứ giác đều.
+- Khối chóp tứ giác đều.
 
 --
 ## Các yêu cầu còn lại:
