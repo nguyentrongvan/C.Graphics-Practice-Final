@@ -54,3 +54,9 @@ Thực hành - SharpGL 3D
 - Xoay trái phải.
 
 - Di chuyển lên xuống.
+
+
+DEMO:
+[![Everything Is AWESOME](https://www.youtube.com/watch?v=kxVqjwMa__8)](https://www.youtube.com/watch?v=kxVqjwMa__8 "Everything Is AWESOME")
+
+
