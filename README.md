@@ -57,6 +57,6 @@ Thực hành - SharpGL 3D
 
 
 DEMO:
-[![Everything Is AWESOME](https://www.youtube.com/watch?v=kxVqjwMa__8)](https://www.youtube.com/watch?v=kxVqjwMa__8 "Everything Is AWESOME")
+[![](http://img.youtube.com/vi/kxVqjwMa__8/0.jpg)](http://www.youtube.com/watch?v=kxVqjwMa__8 "")
 
 
