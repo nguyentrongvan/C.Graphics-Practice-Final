@@ -56,7 +56,7 @@ Thực hành - SharpGL 3D
 - Di chuyển lên xuống.
 
 
-DEMO:
+DEMO:  
 [![](http://img.youtube.com/vi/kxVqjwMa__8/0.jpg)](http://www.youtube.com/watch?v=kxVqjwMa__8 "")
 
 
